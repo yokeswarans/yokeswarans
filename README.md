@@ -30,9 +30,6 @@ Here are some of the tools and languages I work with:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yokeswarans&color=blue&style=flat)
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yokeswarans&show_icons=true&theme=tokyonight&count_private=true)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokeswarans&layout=compact&theme=tokyonight)
 
 ## Connect with Me 🔗
 
