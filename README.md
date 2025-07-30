@@ -28,6 +28,12 @@ Here are some of the tools and languages I work with:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=yokeswarans&color=blue&style=flat)
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yokeswarans&show_icons=true&theme=tokyonight&count_private=true)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokeswarans&layout=compact&theme=tokyonight)
+
 ## Connect with Me 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yokeswaran26/)
