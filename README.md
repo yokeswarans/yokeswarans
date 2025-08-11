@@ -2,6 +2,9 @@
 
 I'm ***Yokeswaran S***, a passionate tech enthusiast diving into the world of ***Artificial Intelligence***! 🚀
 
+Currently learning the fundamentals of Machine Learning (ML), Natural Language Processing (NLP), and Generative AI (GenAI).
+I’ll be updating this space as I grow my tech stack and share the knowledge I gain along the way. 
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yokeswarans&color=blue&style=flat)
